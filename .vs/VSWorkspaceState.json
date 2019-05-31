@@ -3,10 +3,10 @@
     "",
     "\\home",
     "\\home\\templates",
-    "\\home\\templates\\home",
     "\\JVC",
+    "\\static",
     "\\usuario"
   ],
-  "SelectedNode": "\\usuario\\forms.py",
+  "SelectedNode": "\\requirement.txt",
   "PreviewInSolutionExplorer": false
 }
